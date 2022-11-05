@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akashkumarsaw
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Developing & deployment .Net/ aws serverless project   
+- 🌱 I’m currently learning AWS Serverless
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
@@ -8,7 +8,7 @@
 akashkumarsaw/akashkumarsaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/akashkumarsaw) represent my journey :running_man: - This is Mian Akash Kumar Saw, I am founder of Ecom-Services and President at Computer Cell. I have over 7 Months’ experience as a Dotnet & aws Developer Developer. I am a computer scientist by profession and entrepreneur by passion. I have a team of professional we worked in Dotnet, AWS, AI, DL, ML, Data Science and Web development(Reactjs, C#) for database we use Firebase, Firestore, Mysql, mongodb, DynamoDb.
+**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/akashkumarsaw) represent my journey :running_man: - This is Mian Akash Kumar Saw, I am founder of Ecom-Services and President at Computer Cell. I have over 7 Months’ experience as a Dotnet & aws Developer Developer. I am a computer Engineer by profession and entrepreneur by passion. I have a team of professional we worked in Dotnet, AWS, AI, DL, ML, Data Science and Web development(Reactjs, C#) for database we use Firebase, Firestore, Mysql, mongodb, DynamoDb.
 **Languages and Tools:**
 
 
